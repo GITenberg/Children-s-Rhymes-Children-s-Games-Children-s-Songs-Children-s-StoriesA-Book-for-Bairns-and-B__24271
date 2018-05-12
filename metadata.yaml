@@ -1,0 +1,32 @@
+_repo: Children-s-Rhymes-Children-s-Games-Children-s-Songs-Children-s-StoriesA-Book-for-Bairns-and-B__24271
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Robert
+    birthdate: 1846
+    deathdate: 1905
+    gutenberg_agent_id: '26369'
+    url: http://www.gutenberg.org/2009/agents/26369
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2008-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s songs'
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Children''s literature'
+- !lcc 'PZ'
+- !lcc 'PN'
+title: 'Children''s Rhymes, Children''s Games, Children''s Songs, Children''s Stories
+
+  A Book for Bairns and Big Folk'
+url: http://www.gutenberg.org/ebooks/24271
